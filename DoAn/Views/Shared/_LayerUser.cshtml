@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <link href="~/Content/site.css" rel="stylesheet" />
+
+
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+
+    @Html.Action("HeaderPartial", "DoAn")
+
+    @Html.Action("NavPartial", "DoAn")
+    @Html.Action("SliderPartial", "DoAn")
+    <!-- /.container-->
+    @RenderBody()
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+
+                <br>
+
+            </div>
+            <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
+
+            </div>
+        </div>
+    </div>
+    <!-- /.container-->
+    <div class="container">
+
+    </div>
+
+    <!-- /.container-->
+    @Html.Action("FooterPartial", "DoAn")
+</body>
+</html>

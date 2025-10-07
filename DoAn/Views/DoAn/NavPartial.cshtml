@@ -1,0 +1,45 @@
+﻿<link href="~/Content/site.css" rel="stylesheet" />
+
+<!-- Thanh NAV chính -->
+<nav class="navbar-top">
+    <ul class="nav-left">
+        <li class="dropdown">
+            <a href="#" class="dropbtn" id="menu-toggle">☰ Danh mục sản phẩm</a>
+            <ul class="dropdown-content" id="menu-list">
+                <li><a href="#">🐟 Cá</a></li>
+                <li><a href="#">🦐 Tôm</a></li>
+                <li><a href="#">🦀 Cua – Ghẹ</a></li>
+                <li><a href="#">🦑 Mực – Bạch tuộc</a></li>
+                <li><a href="#">🐚 Ngao – Sò – Ốc</a></li>
+                <li><a href="#">🧊 Hải sản đông lạnh</a></li>
+                <li><a href="#">🐚 Hải sản nhập khẩu</a></li>
+                <li><a href="#">🍤 Hải sản cao cấp</a></li>
+                <li><a href="#">🌶️ Gia vị – Sốt – Đồ khô</a></li>
+            </ul>
+        </li>
+        <li><a href="#">Trang chủ</a></li>
+        <li><a href="#">Giới thiệu</a></li>
+        <li><a href="#">Chính sách</a></li>
+        <li><a href="#">Liên hệ</a></li>
+    </ul>
+</nav>
+
+<!-- Script xử lý click -->
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const toggleBtn = document.getElementById("menu-toggle");
+        const menuList = document.getElementById("menu-list");
+
+        toggleBtn.addEventListener("click", function (event) {
+            event.preventDefault();
+            menuList.classList.toggle("active");
+        });
+
+        // Click ra ngoài sẽ đóng menu
+        document.addEventListener("click", function (event) {
+            if (!toggleBtn.contains(event.target) && !menuList.contains(event.target)) {
+                menuList.classList.remove("active");
+            }
+        });
+    });
+</script>

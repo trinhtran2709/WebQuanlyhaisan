@@ -1,0 +1,42 @@
+﻿<link href="~/Content/site.css" rel="stylesheet" />
+
+<header class="headerbar-custom">
+    <div class="headerbar-section headerbar-left">
+        <a href="#">
+            <img src="~/Images/Logochinh_DoAn.png" alt="Logo" class="logo" />
+        </a>
+    </div>
+
+    <div class="headerbar-section headerbar-center">
+        <span class="slogan">HẢI SẢN TƯƠI NGON</span>
+    </div>
+
+    <div class="headerbar-section headerbar-right">
+        <!-- Ô tìm kiếm -->
+        <form class="search-box">
+            <input type="text" placeholder="Bạn tìm gì hôm nay?" />
+            <button type="submit">
+                <span class="glyphicon glyphicon-search"></span>
+            </button>
+        </form>
+
+        <!-- Tài khoản -->
+        <div class="dropdown account-dropdown">
+            <button class="dropdown-toggle" data-toggle="dropdown">
+                <img src="~/Images/user.jpg" alt="User" class="user-avatar" />
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu dropdown-menu-right">
+                <li><a href="#">Đăng ký</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="#">Đăng nhập</a></li>
+            </ul>
+        </div>
+
+        <!-- Giỏ hàng -->
+        <div class="cart">
+            <span class="glyphicon glyphicon-shopping-cart"></span>
+            <span class="cart-badge">0</span>
+        </div>
+    </div>
+</header>

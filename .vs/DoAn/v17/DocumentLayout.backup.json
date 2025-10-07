@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web\\DoAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8704C616-F20F-4317-B45D-062D63315A40}|DoAn\\DoAn.csproj|d:\\web\\doan\\doan\\views\\doan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8704C616-F20F-4317-B45D-062D63315A40}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\doan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704C616-F20F-4317-B45D-062D63315A40}|DoAn\\DoAn.csproj|D:\\Web\\DoAn\\doan\\views\\shared\\_layeruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8704C616-F20F-4317-B45D-062D63315A40}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\shared\\_layeruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704C616-F20F-4317-B45D-062D63315A40}|DoAn\\DoAn.csproj|D:\\Web\\DoAn\\doan\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8704C616-F20F-4317-B45D-062D63315A40}|DoAn\\DoAn.csproj|solutionrelative:doan\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704C616-F20F-4317-B45D-062D63315A40}|DoAn\\DoAn.csproj|D:\\Web\\DoAn\\doan\\views\\doan\\haisanbanchaypartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8704C616-F20F-4317-B45D-062D63315A40}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\doan\\haisanbanchaypartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704C616-F20F-4317-B45D-062D63315A40}|DoAn\\DoAn.csproj|D:\\Web\\DoAn\\doan\\views\\doan\\sliderpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8704C616-F20F-4317-B45D-062D63315A40}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\doan\\sliderpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704C616-F20F-4317-B45D-062D63315A40}|DoAn\\DoAn.csproj|D:\\Web\\DoAn\\doan\\views\\doan\\headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8704C616-F20F-4317-B45D-062D63315A40}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\doan\\headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Web\\DoAn\\DoAn\\Views\\DoAn\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\DoAn\\Index.cshtml",
+              "ToolTip": "D:\\Web\\DoAn\\DoAn\\Views\\DoAn\\Index.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\DoAn\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T16:35:05.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site.css",
+              "DocumentMoniker": "D:\\Web\\DoAn\\DoAn\\Content\\Site.css",
+              "RelativeDocumentMoniker": "DoAn\\Content\\Site.css",
+              "ToolTip": "D:\\Web\\DoAn\\DoAn\\Content\\Site.css",
+              "RelativeToolTip": "DoAn\\Content\\Site.css",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAuwMIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-06T16:34:20.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayerUser.cshtml",
+              "DocumentMoniker": "D:\\Web\\DoAn\\DoAn\\Views\\Shared\\_LayerUser.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\Shared\\_LayerUser.cshtml",
+              "ToolTip": "D:\\Web\\DoAn\\DoAn\\Views\\Shared\\_LayerUser.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\Shared\\_LayerUser.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T18:51:07.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HaisanbanchayPartial.cshtml",
+              "DocumentMoniker": "D:\\Web\\DoAn\\DoAn\\Views\\DoAn\\HaisanbanchayPartial.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\DoAn\\HaisanbanchayPartial.cshtml",
+              "ToolTip": "D:\\Web\\DoAn\\DoAn\\Views\\DoAn\\HaisanbanchayPartial.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\DoAn\\HaisanbanchayPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T18:49:16.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SliderPartial.cshtml",
+              "DocumentMoniker": "D:\\Web\\DoAn\\DoAn\\Views\\DoAn\\SliderPartial.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\DoAn\\SliderPartial.cshtml",
+              "ToolTip": "D:\\Web\\DoAn\\DoAn\\Views\\DoAn\\SliderPartial.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\DoAn\\SliderPartial.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T19:09:11.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HeaderPartial.cshtml",
+              "DocumentMoniker": "D:\\Web\\DoAn\\DoAn\\Views\\DoAn\\HeaderPartial.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\DoAn\\HeaderPartial.cshtml",
+              "ToolTip": "D:\\Web\\DoAn\\DoAn\\Views\\DoAn\\HeaderPartial.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\DoAn\\HeaderPartial.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T18:58:39.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
